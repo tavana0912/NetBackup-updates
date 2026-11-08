@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NetBackupRelease>
-  <Version>1.54.0</Version>
-  <Notes>User name for each client; messages between client users with attached files, hide, and an archive for the administrator (Messages tab).</Notes>
-  <PublishedUtc>2026-11-08T06:10:56</PublishedUtc>
+  <Version>1.55.0</Version>
+  <Notes>Update check tries GitHub (two addresses, with retries) and the host, and shows which source answered. Includes 1.54: user names, messages with attachments, message archive.</Notes>
+  <PublishedUtc>2026-11-08T06:25:05</PublishedUtc>
 </NetBackupRelease>

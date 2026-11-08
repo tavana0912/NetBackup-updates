@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NetBackupRelease>
-  <Version>1.53.0</Version>
-  <Notes>Updates from GitHub. Remove a second server (optionally with its old backups), move or uninstall agents, users choose their own backup folders with approval, exit password, free server connections.</Notes>
-  <PublishedUtc>2026-11-07T09:56:59</PublishedUtc>
+  <Version>1.54.0</Version>
+  <Notes>User name for each client; messages between client users with attached files, hide, and an archive for the administrator (Messages tab).</Notes>
+  <PublishedUtc>2026-11-08T06:10:56</PublishedUtc>
 </NetBackupRelease>
